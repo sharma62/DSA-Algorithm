@@ -11,6 +11,8 @@ int main()
         cout << " "<< arr[i] ;
     }
     cout << endl;
+    
+//  Logic of bubble sort .
     int swap =0;
 
     for (size_t i = 0; i < num - 1; i++)
