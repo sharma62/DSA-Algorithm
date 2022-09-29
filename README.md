@@ -1,8 +1,10 @@
 # DSA-Algorithm
 Complete DSA algorithm 
 
->.Algo-Name     -------------- Discription:
+> Algorithem
 
- 1. Bubble_sort -------------- Here is 1st basic approach to solving if any one to optimize is the welcome & contribute it.
+  1. Bubble sort
+  2. Selection sort
+ 
 
  
